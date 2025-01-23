@@ -4,13 +4,13 @@
 ![github](https://github.com/user-attachments/assets/1efa5f13-02c4-4bc6-8e54-e78632e3dec3)
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/craxy14/Projects.]((https://github.com/The1stRule/Projects.git))
+- 👨‍💻 All of my projects are available at [https://github.com/The1stRule/Projects.git](https://github.com/The1stRule/Projects.git))
 
 - 📫 How to reach me **nikoloz0812@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.facebook.com/nika.kvaracxelia.94214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vano motiashvili" height="30" width="40" /></a>
+<a href="https://www.facebook.com/nika.kvaracxelia.94214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nika kvaracxelia" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
