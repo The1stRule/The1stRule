@@ -4,7 +4,7 @@
 ![github](https://github.com/user-attachments/assets/1efa5f13-02c4-4bc6-8e54-e78632e3dec3)
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/The1stRule/Projects.git](https://github.com/The1stRule/Projects.git))
+- 👨‍💻 All of my projects are available at [https://github.com/The1stRule/Projects.git](https://github.com/The1stRule/Projects.git)
 
 - 📫 How to reach me **nikoloz0812@gmail.com**
 
